@@ -363,4 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 /AzureBlobProject/appsettings.json
 /AzureBlobProject/appsettings.json
+<<<<<<< HEAD
 /AzureFunctionWebProj/appsettings.json
+=======
+>>>>>>> refs/remotes/origin/main
